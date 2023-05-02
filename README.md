@@ -3,7 +3,7 @@
 ### I'm a senior at the University of Iowa Tippie College of Business double majoring in Business Analytics and Management with a certificate in International Business. 
 
 ![Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)
-![Denver badge](https://img.shields.io/endpoint?message=CO&logo=google-maps&labelColor=#228B22&color=000000&logoColor=black&label=Denver&)
+![Denver badge](https://img.shields.io//static/v1?message=CO&logo=google-maps&labelColor=ffcd00&color=000000&logoColor=black&label=Denver&style=for-the-badge)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oliviadachtler) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://oliviadachtler.me/)
