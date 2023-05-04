@@ -1,8 +1,8 @@
-### Hi I'm Olivia Dachtler 👋
+# Hi I'm Olivia Dachtler 👋
 
 ### I'm a senior at the University of Iowa Tippie College of Business double majoring in Business Analytics and Management with a certificate in International Business. 
 
-## Following graduation, I will be moving out to Denver, Colorado to work as a Business Analytics Consultant for Plante Moran. 
+### Following graduation, I will be moving out to Denver, Colorado to work as a Business Analytics Consultant for Plante Moran. 
 
 ![Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)
 
